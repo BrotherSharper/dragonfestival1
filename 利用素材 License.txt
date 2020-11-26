@@ -1,3 +1,6 @@
+ここに収録されている素材のみを再配布したり改変することは禁止します。素材が欲しい方は以下の各場所より直接入手してください。
+It is excplicitly prohibited to redistribute or modify the materials in this world. If you liked something please take your time to download it from the author's page.
+
 【画像】Images
 ・Renshire
 https://renshire.booth.pm/
@@ -53,7 +56,6 @@ Madcowchef's Grassland Geomorphic Tiles (https://dungeonchannel.com/portfolio/ma
 Attributed under CC-BY-SA (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 【追加データ】Other data
-
 ・Craftsman by Mage Hand Press (Middle finger of Vecna)
 https://mfov.magehandpress.com/2019/06/craftsman-final.html
 
