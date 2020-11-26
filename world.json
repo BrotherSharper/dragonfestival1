@@ -14,7 +14,7 @@
   "keywords": [],
   "socket": false,
   "url": "https://github.com/BrotherSharper/dragonfestival1",
-  "manifest": "https://raw.githubusercontent.com/BrotherSharper/dragonfestival1/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/dragonfestival1/master/world.json",
   "download": "https://github.com/BrotherSharper/dragonfestival1/archive/master.zip",
   "license": "",
   "readme": "",
