@@ -9,7 +9,7 @@
 
 以下のリンクをワールドとしてインストールしてください。
 
-* リンク： https://raw.githubusercontent.com/BrotherSharper/dragonfestival1/master/module.json
+* リンク： https://raw.githubusercontent.com/BrotherSharper/dragonfestival1/master/world.json
 
 ### 物語
 *こはアーネスト地方の小さな町、ドラグレイド。嘗てこの町を脅かす恐ろしい邪竜が闊歩していたが、伝説の武具を手にその悪逆に立ち向かった英雄たちによって滅ぼされた。*
