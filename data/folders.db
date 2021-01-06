@@ -7,7 +7,7 @@
 {"_id":"Al5icvyuw7Dw2oA5","name":"防具","type":"Item","sort":850000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":""}
 {"name":"状態異常","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"color":"","_id":"C9WwpEWzLL5weANL"}
 {"name":"刀匠のギルド","type":"Item","sort":1350000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":"","_id":"CDyjHEbtkHzs3jJj"}
-{"_id":"DL4qOrUvgPNCLcyq","name":"高品質特性","type":"Item","sort":1550000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":""}
+{"_id":"DL4qOrUvgPNCLcyq","name":"高品質特性","type":"Item","sort":1550000,"flags":{},"parent":"4YWwl9s5pCRV5P45","sorting":"m","color":""}
 {"_id":"E9XCspFN2890MAGF","name":"シルトガーデン遺跡各部屋","type":"JournalEntry","sort":1200000,"flags":{},"parent":"jWEh3DoiF2TxpMxW","color":""}
 {"name":"NPC","type":"Actor","sort":300000,"flags":{},"parent":null,"color":"#ff8000","_id":"EKwhnYf5ZllgtBe6"}
 {"_id":"ELre0zfxMaJDbMeb","name":"５．襲撃","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"color":""}
@@ -47,5 +47,5 @@
 {"_id":"uyzkOjKzX2Fc5gP6","name":"酒場","type":"Actor","sort":750000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":""}
 {"_id":"vzLSyrSFhseHJyKn","name":"襲撃部隊","type":"Actor","sort":1400000,"flags":{},"parent":"J8V4snqWyrEUROrC","color":""}
 {"_id":"xwG7Fr0YYUihqCu3","name":"ノーウィック坑道各部屋","type":"JournalEntry","sort":1100000,"flags":{},"parent":"cyP0pcY0xo8xsrHq","color":""}
-{"name":"職人級","type":"Item","sort":1850000,"flags":{},"parent":"DL4qOrUvgPNCLcyq","color":"","_id":"yMiH8qDm1xKIPIle"}
+{"_id":"yMiH8qDm1xKIPIle","name":"職人級","type":"Item","sort":1850000,"flags":{},"parent":"DL4qOrUvgPNCLcyq","sorting":"m","color":""}
 {"name":"ドラグレイド","type":"Actor","sort":500000,"flags":{},"parent":"EKwhnYf5ZllgtBe6","color":"","_id":"zHUnDmBGM5pp305X"}
