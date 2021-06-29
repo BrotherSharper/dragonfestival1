@@ -42,11 +42,10 @@
 {"name":"遠距離用","type":"Item","sort":800000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":"","_id":"pGwyaCOB7wQj3ylW"}
 {"_id":"sFrPnaw34u3ReMyr","name":"１．出会い","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"color":""}
 {"_id":"sysR66s8RklkpDrW","name":"ハンドアウト","type":"JournalEntry","sort":175000,"flags":{},"parent":null,"color":""}
-{"_id":"t5ImelFkR64mvz9X","name":"エピローグ","type":"JournalEntry","sort":150000,"flags":{},"parent":null,"color":""}
+{"_id":"t5ImelFkR64mvz9X","name":"プロローグ","type":"JournalEntry","sort":150000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"初級","type":"Item","sort":1650000,"flags":{},"parent":"DL4qOrUvgPNCLcyq","color":"","_id":"udOCm5SSleB5vFgB"}
 {"_id":"uyzkOjKzX2Fc5gP6","name":"酒場","type":"Actor","sort":750000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":""}
 {"_id":"vzLSyrSFhseHJyKn","name":"襲撃部隊","type":"Actor","sort":1400000,"flags":{},"parent":"J8V4snqWyrEUROrC","color":""}
 {"_id":"xwG7Fr0YYUihqCu3","name":"ノーウィック坑道各部屋","type":"JournalEntry","sort":1100000,"flags":{},"parent":"cyP0pcY0xo8xsrHq","color":""}
 {"_id":"yMiH8qDm1xKIPIle","name":"職人級","type":"Item","sort":1850000,"flags":{},"parent":"DL4qOrUvgPNCLcyq","sorting":"m","color":""}
 {"name":"ドラグレイド","type":"Actor","sort":500000,"flags":{},"parent":"EKwhnYf5ZllgtBe6","color":"","_id":"zHUnDmBGM5pp305X"}
-{"_id":"t5ImelFkR64mvz9X","name":"プロローグ","type":"JournalEntry","sort":150000,"flags":{},"parent":null,"sorting":"a","color":""}
