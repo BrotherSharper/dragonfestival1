@@ -1,13 +1,13 @@
 {"name":"ノーウィック坑道","type":"Actor","sort":1200000,"flags":{},"parent":"J8V4snqWyrEUROrC","color":"","_id":"1sgZpcE1H83pvtng"}
 {"name":"竜殺し","type":"Item","sort":600000,"flags":{},"parent":"aphoneBnNjquOJjQ","color":"","_id":"3gTvxjxBc34cM5fy"}
 {"name":"前衛用","type":"Item","sort":700000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":"","_id":"4GOLhFMn7nZKHhQp"}
-{"name":"追加データ","type":"Item","sort":1050000,"flags":{},"parent":null,"color":"","_id":"4YWwl9s5pCRV5P45"}
+{"_id":"4YWwl9s5pCRV5P45","name":"追加データ","type":"Item","parent":null,"sorting":"m","sort":1050000,"color":"","flags":{}}
 {"name":"商人","type":"Actor","sort":1000000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":"","_id":"5zytSEHQPn8La9vJ"}
 {"name":"特殊近接武器","type":"Item","sort":2450000,"flags":{},"parent":"m7fTE9ICL9WxKhDu","color":"","_id":"AdzrHjTdvoRRupiL"}
 {"_id":"Al5icvyuw7Dw2oA5","name":"防具","type":"Item","sort":850000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":""}
 {"name":"状態異常","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"color":"","_id":"C9WwpEWzLL5weANL"}
 {"name":"刀匠のギルド","type":"Item","sort":1350000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":"","_id":"CDyjHEbtkHzs3jJj"}
-{"_id":"DL4qOrUvgPNCLcyq","name":"高品質特性","type":"Item","sort":1550000,"flags":{},"parent":"4YWwl9s5pCRV5P45","sorting":"m","color":""}
+{"_id":"DL4qOrUvgPNCLcyq","name":"高品質特性","type":"Item","parent":"4YWwl9s5pCRV5P45","sorting":"m","sort":1800000,"color":null,"flags":{}}
 {"_id":"E9XCspFN2890MAGF","name":"シルトガーデン遺跡各部屋","type":"JournalEntry","sort":1200000,"flags":{},"parent":"jWEh3DoiF2TxpMxW","color":""}
 {"name":"NPC","type":"Actor","sort":300000,"flags":{},"parent":null,"color":"#ff8000","_id":"EKwhnYf5ZllgtBe6"}
 {"_id":"ELre0zfxMaJDbMeb","name":"５．襲撃","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"color":""}
