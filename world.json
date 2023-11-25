@@ -1,35 +1,30 @@
 {
-  "name": "dragonfestival1",
   "title": "竜祭（Dragon Festival）",
   "description": "<p>すべてが準備済みのD&amp;D5版用のレベル３～５用ショートキャンペーン。</p>\n<p>アーネスト地方、ドラグレイドの街はかねてより大きな問題を抱えていた。定期的に山脈を住処とする竜が降りてきて家畜、財産、人を奪っていく。その竜の力量は凄まじく、多くの冒険者が挑んでは破れている。</p>\n<p>ドラグレイドに住む若き鍛冶師見習いの親も嘗ては冒険者でありその竜の討伐を試みた。しかし、無残にも竜に破れ、龍はそれ以降ドラグレイドの街に目をつけた。街の人々に嫌われながらも懸命に生きていたが、やがて竜を退治する運命がめぐり寄せてくる。</p>\n<p>運命が竜と交差した若き鍛冶師と冒険をともにする仲間たち。彼らの偉業は後に語り継がれることなるだろう。</p>\n<p>This is a short D&amp;D 5e campaign of levels 3~5 made in Japanese for the Japanese community. All the content is in Japanese so use at your own risk.</p>",
-  "author": "Brother Sharp",
-  "authors": [
-    "Brother Sharp"
-  ],
   "url": "https://github.com/BrotherSharper/dragonfestival1",
-  "flags": {},
   "version": "1.3.1",
-  "minimumCoreVersion": "0.0.0",
-  "compatibleCoreVersion": "1.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
   "system": "dnd5e",
-  "dependencies": [
-    {
-      "name": "dnd5eja",
-      "type": "module",
-      "manifest": "https://raw.githubusercontent.com/BrotherSharper/dnd5eja/master/module.json"
-    }
-  ],
-  "socket": false,
   "manifest": "https://raw.githubusercontent.com/BrotherSharper/dragonfestival1/master/world.json",
   "download": "https://github.com/BrotherSharper/dragonfestival1/archive/master.zip",
-  "protected": false,
   "background": "worlds/dragonfestival1/maps/dragon%20festival.png",
-  "coreVersion": "0.8.8",
+  "coreVersion": "11.313",
   "resetKeys": false,
-  "safeMode": false
+  "safeMode": false,
+  "systemVersion": "2.4.0",
+  "id": "dragonfestival1",
+  "relationships": {
+    "requires": [
+      {
+        "id": "dnd5eja",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/BrotherSharper/dnd5eja/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.313"
+  },
+  "lastPlayed": "Sat Nov 25 2023 21:17:57 GMT+0900 (日本標準時)"
 }

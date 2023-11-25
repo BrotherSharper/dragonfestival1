@@ -5,6 +5,7 @@
 {"name":"商人","type":"Actor","sort":1000000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":"","_id":"5zytSEHQPn8La9vJ"}
 {"name":"特殊近接武器","type":"Item","sort":2450000,"flags":{},"parent":"m7fTE9ICL9WxKhDu","color":"","_id":"AdzrHjTdvoRRupiL"}
 {"_id":"Al5icvyuw7Dw2oA5","name":"防具","type":"Item","sort":850000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":""}
+{"name":"Ancient Battlefield","type":"Scene","parent":"FzyLHe116RTbYEKs","sorting":"a","sort":0,"flags":{},"_id":"BGyHzj9OH4X5FlTn"}
 {"name":"状態異常","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"color":"","_id":"C9WwpEWzLL5weANL"}
 {"name":"刀匠のギルド","type":"Item","sort":1350000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":"","_id":"CDyjHEbtkHzs3jJj"}
 {"_id":"DL4qOrUvgPNCLcyq","name":"高品質特性","type":"Item","parent":"4YWwl9s5pCRV5P45","sorting":"m","sort":1800000,"color":null,"flags":{}}
@@ -12,6 +13,7 @@
 {"name":"NPC","type":"Actor","sort":300000,"flags":{},"parent":null,"color":"#ff8000","_id":"EKwhnYf5ZllgtBe6"}
 {"_id":"ELre0zfxMaJDbMeb","name":"５．襲撃","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"color":""}
 {"name":"中級","type":"Item","sort":1750000,"flags":{},"parent":"DL4qOrUvgPNCLcyq","color":"","_id":"FqGiFPYGkX9Oiegc"}
+{"name":"Cze and Peku","type":"Scene","parent":"ZlsMCxIXDHkDjmab","sorting":"a","sort":0,"flags":{},"_id":"FzyLHe116RTbYEKs"}
 {"name":"タッグ","type":"JournalEntry","sort":1000000,"flags":{},"parent":"UBHF3pIw9MZl7sqx","color":"","_id":"HdudwngAX92gnabO"}
 {"name":"モンスター","type":"Actor","sort":400000,"flags":{},"parent":null,"color":"#ff0000","_id":"J8V4snqWyrEUROrC"}
 {"name":"特殊遠隔武器","type":"Item","sort":2550000,"flags":{},"parent":"m7fTE9ICL9WxKhDu","color":"","_id":"LxmD1biknYyyPnTb"}
@@ -26,11 +28,13 @@
 {"name":"細工職人のギルド","type":"Item","sort":1450000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":"","_id":"VvnvvQ7zwD8aLSmY"}
 {"name":"基本","type":"Item","sort":1150000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":"","_id":"WwPyK6kf1yRdvM7H"}
 {"_id":"YcWywjBjpsObVZCp","name":"術者用","type":"Item","sort":825000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":""}
+{"name":"Moulinette","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ZlsMCxIXDHkDjmab"}
 {"name":"マジックアイテム","type":"Item","sort":null,"flags":{},"parent":null,"color":"","_id":"aphoneBnNjquOJjQ"}
 {"_id":"atpYWtja2UgBiqRD","name":"はじめに","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"color":""}
 {"name":"伝説級","type":"Item","sort":1950000,"flags":{},"parent":"DL4qOrUvgPNCLcyq","color":"","_id":"b3W4K3JM0Nw6Thxe"}
 {"name":"その他","type":"Actor","sort":1500000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":"","_id":"cFkKAO7lr2aY6lEs"}
 {"_id":"cyP0pcY0xo8xsrHq","name":"３．洞窟","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"color":""}
+{"name":"Colosseum of Challenges","type":"Scene","parent":"FzyLHe116RTbYEKs","sorting":"a","sort":0,"flags":{},"_id":"dVhdbA9Mnd8QWFch"}
 {"_id":"fQem0AbR8L6QJrtf","name":"甲冑師のギルド","type":"Item","sort":1250000,"flags":{},"parent":"4YWwl9s5pCRV5P45","color":""}
 {"name":"衛兵","type":"Actor","sort":800000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":"","_id":"ghqF14OpyDfSXBlx"}
 {"_id":"jWEh3DoiF2TxpMxW","name":"４．遺跡","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"color":""}
@@ -40,6 +44,7 @@
 {"name":"シルトガーデン遺跡","type":"Actor","sort":1300000,"flags":{},"parent":"J8V4snqWyrEUROrC","color":"","_id":"oyK3aXotz6sUnSJg"}
 {"_id":"p44sHBOv0D9JK7FX","name":"ダガー団","type":"Actor","sort":900000,"flags":{},"parent":"zHUnDmBGM5pp305X","color":""}
 {"name":"遠距離用","type":"Item","sort":800000,"flags":{},"parent":"3gTvxjxBc34cM5fy","color":"","_id":"pGwyaCOB7wQj3ylW"}
+{"name":"Forest Shrine Festival","type":"Scene","parent":"FzyLHe116RTbYEKs","sorting":"a","sort":0,"flags":{},"_id":"pv51uW5QxmteD1V0"}
 {"_id":"sFrPnaw34u3ReMyr","name":"１．出会い","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"color":""}
 {"_id":"sysR66s8RklkpDrW","name":"ハンドアウト","type":"JournalEntry","sort":175000,"flags":{},"parent":null,"color":""}
 {"_id":"t5ImelFkR64mvz9X","name":"プロローグ","type":"JournalEntry","sort":150000,"flags":{},"parent":null,"sorting":"a","color":""}
