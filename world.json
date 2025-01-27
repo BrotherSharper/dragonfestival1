@@ -7,10 +7,10 @@
   "manifest": "https://raw.githubusercontent.com/BrotherSharper/dragonfestival1/master/world.json",
   "download": "https://github.com/BrotherSharper/dragonfestival1/archive/master.zip",
   "background": "worlds/dragonfestival1/maps/dragon%20festival.png",
-  "coreVersion": "11.313",
+  "coreVersion": "12.331",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "2.4.0",
+  "systemVersion": "4.1.2",
   "id": "dragonfestival1",
   "relationships": {
     "requires": [
@@ -23,8 +23,25 @@
     ]
   },
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.313"
+    "minimum": "12",
+    "verified": "12.331"
   },
-  "lastPlayed": "Sat Nov 25 2023 21:17:57 GMT+0900 (日本標準時)"
+  "lastPlayed": "Mon Jan 27 2025 11:54:43 GMT+0900 (日本標準時)",
+  "playtime": 687,
+  "packs": [
+    {
+      "label": "Mass Edit: Presets (MAIN)",
+      "type": "JournalEntry",
+      "ownership": {
+        "GAMEMASTER": "NONE",
+        "PLAYER": "NONE",
+        "ASSISTANT": "NONE"
+      },
+      "name": "mass-edit-presets-main",
+      "path": "packs/mass-edit-presets-main",
+      "system": "dnd5e",
+      "flags": {},
+      "package": "world"
+    }
+  ]
 }

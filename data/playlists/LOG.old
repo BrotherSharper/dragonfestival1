@@ -1,0 +1,16 @@
+2025/01/27-11:42:53.792 12dc8 Recovering log #3
+2025/01/27-11:42:53.792 12dc8 Level-0 table #5: started
+2025/01/27-11:42:53.795 12dc8 Level-0 table #5: 3471 bytes OK
+2025/01/27-11:42:53.797 12dc8 Delete type=0 #3
+2025/01/27-11:42:53.797 12dc8 Delete type=3 #2
+2025/01/27-11:54:24.364 a954 Level-0 table #8: started
+2025/01/27-11:54:24.367 a954 Level-0 table #8: 4246 bytes OK
+2025/01/27-11:54:24.368 a954 Delete type=0 #6
+2025/01/27-11:54:24.376 a954 Manual compaction at level-0 from '!playlists!6q0a6OmBrWW8njo0' @ 72057594037927935 : 1 .. '!playlists.sounds!WOAKI8QXwp1vtEXU.xTThyQUtzHws7PV5' @ 0 : 0; will stop at '!playlists.sounds!WOAKI8QXwp1vtEXU.xTThyQUtzHws7PV5' @ 33 : 1
+2025/01/27-11:54:24.376 a954 Compacting 2@0 + 0@1 files
+2025/01/27-11:54:24.379 a954 Generated table #9@0: 36 keys, 4246 bytes
+2025/01/27-11:54:24.379 a954 Compacted 2@0 + 0@1 files => 4246 bytes
+2025/01/27-11:54:24.380 a954 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/01/27-11:54:24.380 a954 Delete type=2 #5
+2025/01/27-11:54:24.380 a954 Delete type=2 #8
+2025/01/27-11:54:24.390 a954 Manual compaction at level-0 from '!playlists.sounds!WOAKI8QXwp1vtEXU.xTThyQUtzHws7PV5' @ 33 : 1 .. '!playlists.sounds!WOAKI8QXwp1vtEXU.xTThyQUtzHws7PV5' @ 0 : 0; will stop at (end)
